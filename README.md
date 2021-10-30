@@ -1,5 +1,5 @@
 # Private-projects
 own projects
 
-개인 프로젝트들을 저장하는 곳
+테스트로 한번 만들어본 Repository
 
